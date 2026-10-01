@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\rahma c#\hotelrombooking\hotelrombooking\obj\Debug\hotelrombooking.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\rahma c#\hotelrombooking\hotelrombooking\obj\Debug\hotelrombooking.Form1.resources
+C:\Users\hp\Desktop\rahma c#\hotelrombooking\hotelrombooking\obj\Debug\hotelrombooking.Properties.Resources.resources
+C:\Users\hp\Desktop\rahma c#\hotelrombooking\hotelrombooking\obj\Debug\hotelrombooking.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\rahma c#\hotelrombooking\hotelrombooking\obj\Debug\hotelrombooking.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\rahma c#\hotelrombooking\hotelrombooking\bin\Debug\hotelrombooking.exe.config
+C:\Users\hp\Desktop\rahma c#\hotelrombooking\hotelrombooking\bin\Debug\hotelrombooking.exe
+C:\Users\hp\Desktop\rahma c#\hotelrombooking\hotelrombooking\bin\Debug\hotelrombooking.pdb
+C:\Users\hp\Desktop\rahma c#\hotelrombooking\hotelrombooking\obj\Debug\hotelrombooking.exe
+C:\Users\hp\Desktop\rahma c#\hotelrombooking\hotelrombooking\obj\Debug\hotelrombooking.pdb
+C:\Users\hp\Desktop\rahma c#\hotelrombooking\hotelrombooking\obj\Debug\hotelrombooking.exe.config
