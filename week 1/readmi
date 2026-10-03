@@ -1,103 +1,146 @@
-
-# Chapter 1  Introduction to Visual C# and GUI Applications
+# Chapter 1 
 
 ## 📋 Topics Overview
-- `1.1` Objects & Controls Basics
-- `1.2` The Program Development Process
-- `1.8` Getting Started with Visual Studio
-- `2.1` Getting Started with Forms and Controls
-- `2.2` Creating the GUI for Your First Application
-- `2.3` Introduction to C# Code
-- `2.4` Writing Code for the Hello World Application
-- `2.5` Label Controls
-- `2.6` Making Sense of IntelliSense
-- `2.7` PictureBox Controls
-- `2.8` Comments, Blank Lines, and Indentation
-- `2.9` Writing the Code to Close an Application’s Form
-- `2.10` Dealing with Syntax Errors
+* 1.1 Objects & Controls Basics
+* 1.2 The Program Development Process
+* 1.8 Getting Started with Visual Studio
+* 2.1 Getting Started with Forms and Controls
+* 2.2 Creating the GUI for Your First Application
+* 2.3 Introduction to C# Code
+* 2.4 Writing Code for the Hello World Application
+* 2.5 Label Controls
+* 2.6 Making Sense of IntelliSense
+* 2.7 PictureBox Controls
+* 2.8 Comments, Blank Lines, and Indentation
+* 2.9 Writing the Code to Close an Application's Form
+* 2.10 Dealing with Syntax Errors
 
 ---
 
-## 💎 1.1 Objects and Controls
-- **Object:** A program component that contains data and performs operations to carry out specific tasks.
-  - **Properties:** The data stored inside an object (such as its size, color, or text).
-  - **Methods:** The operations or actions that an object can perform.
-- **Controls:** Visible objects in a program's Graphical User Interface (GUI) that the user can interact with (such as **Labels**, **Buttons**, and **TextBoxes**).
-- **Class:** The code template or blueprint that describes and defines a particular type of object.
+## 💎 1.1 Objects and Controls Basics
+* Object: A program component that contains data and performs tasks.
+* Properties: The data stored inside an object (such as data or fields).
+* Methods: The operations, actions, or procedures that an object can perform.
+* Controls: Visible objects in a program's Graphical User Interface (GUI) that users interact with (such as Labels, Buttons, and TextBoxes).
+* Class: The code template or blueprint that describes a particular type of object.
 
 ---
 
-## 🖥️ 1.8 Visual Studio Environment
-Visual Studio is a professional Integrated Development Environment (IDE) used to build applications. It includes the following essential windows:
-- **Designer Window:** The main workspace used to visually design the user interface of a form (GUI).
-- **Solution Explorer Window:** A window used to navigate and manage all the files and projects belonging to the application.
-- **Properties Window:** A panel used to modify the appearance, name, and specific behavioral properties of a selected control.
-- **Toolbox:** A window containing utility controls that you can select and add directly to your form.
+## 💎 1.2 Program Development Process & Visual Studio Environment
+* The Process: The stages of creating a program consist of: Designing the GUI -> Setting the properties -> Writing the code -> Fixing errors (Debugging).
+* Designer Window: The workspace where you visually design and build your program's interface (the Form).
+* Solution Explorer: A window that lists all the projects and files your application contains (such as Form1.cs and Program.cs).
+* Properties Window: A window used to change the appearance and behavior of controls (such as color, text, and names).
+* Auto Hide (Pushpin Icon): Clicking the pin icon automatically hides windows to the edges to maximize your screen workspace.
 
 ---
 
-## 📦 2.1 - 2.3 Projects and GUI Basics
-- When you start a new **Windows Forms App** project, an empty window container named **Form1** is automatically generated.
-- **Naming Rules for Controls:** 
-  - The first character of a control name (identifier) must be a letter or an underscore (`_`).
-  - It cannot contain spaces or special punctuation characters (such as `*` or `-`).
-  - *Valid examples:* `showDayButton`, `displayTotalButton`.
+## 💎 2.1 - 2.5 Working with Forms, Labels & Buttons
+* Empty Form: When you start a new project, an empty Form automatically opens with an initial size of 300 x 300 pixels.
+* Bounding Box & Sizing Handles: A thin dotted line and small squares surrounding a selected control or Form, used to resize it.
+* Text Property: This property determines the visible text displayed on the Form's title bar, or on top of Labels and Buttons (e.g., changing "Form1" to "My First Program").
+* Label Control: A control used to display static, unchanging text or program outputs on a form.
+* Button Control: A clickable interface element that triggers an action or code when pressed by the user.
+* Deleting a Control: To remove any control, select it once on the form and press the Delete key on your keyboard.
 
 ---
 
-## ⌨️ 2.4 - 2.7 Writing Event-Driven Code
-GUI applications are **event-driven**, meaning they wait for and respond to specific actions performed by the user while the application runs (such as clicking a button or moving the mouse).
+## 💎 2.6 - 2.10 Event-Driven Programming & Code Rules
+* Event Handler: GUI applications are event-driven. Double-clicking a control (like a Button) in the Designer automatically creates a method (Event Handler) that executes code when that specific event happens.
+* Naming Rules for Controls (Identifiers): 
+  - The first character must be a letter or an underscore (_).
+  - It cannot contain spaces or special symbols like asterisks (*).
+  - Valid Examples: showDayButton, displayTotalLabel.
+* MessageBox.Show(): A built-in .NET method used to display a pop-up window containing a message (dialog box).
+* this.Close(): The statement used in code to close the current active Form or exit the application.
+* Syntax Errors: Mistakes that violate the grammatical rules of the programming language. Visual Studio underlines them with a red jagged line. Programs cannot compile or run if a build error exists.
 
-### 1. Displaying a Message Box (MessageBox)
-```csharp
-private void messageButton_Click(object sender, EventArgs e)
-{
-    // Displays a small pop-up dialog box containing the text
-    MessageBox.Show("Hello World"); 
-}
-```
+====================================================================
 
-### 2. Changing Label Text (Label Output)
-```csharp
-private void showAnswerButton_Click(object sender, EventArgs e)
-{
-    // Assigns a new text string value to the Label control
-    answerLabel.Text = "Jamhuuriya University"; 
-}
-```
+# Chapter 3: Processing Data
 
-### 3. Showing and Hiding Images (PictureBox Visibility)
-Statements in code execute in a sequential order (**Sequential Execution**). This means each line runs exactly in the order it appears from top to bottom:
-```csharp
-private void showBackButton_Click(object sender, EventArgs e)
-{
-    cardBackPictureBox.Visible = true;  // Makes the card back image visible
-    cardFacePictureBox.Visible = false; // Hides the card face image
-}
-```
+## 📋 Topics Overview
+* 3.1 Reading Input with TextBox Controls
+* 3.2 - 3.3 A First Look at Variables and Numeric Data Types
+* 3.4 Performing Calculations
+* 3.5 - 3.6 Inputting/Outputting Values and Formatting Numbers (Parse & ToString)
+* 3.7 Simple Exception Handling (try-catch)
+* 3.8 - 3.9 Named Constants and Fields
+* 3.10 Using the Math Class
+* 3.11 Focus, Tab Order, and GUI Details
+* 3.12 Using the Debugger to Locate Logic Errors
 
 ---
 
-## ✍️ 2.8 Comments and Indentation
-- **Line Comment (`//`):** Used to add a brief explanatory note on a single line of code.
-- **Block Comment (`/* ... */`):** Used to write longer, multi-line explanations across consecutive lines.
-- **Indentation:** Structuring blocks with empty lines and proper spacing ensures the code remains highly human-readable.
+## 💎 3.1 TextBox Controls & The Text Property
+* TextBox Control: A rectangular area in a GUI that accepts keyboard input from the user, located in the Common Controls group of the Toolbox.
+* Text Property: A TextBox control's Text property stores user inputs as a string value, even if the entered data looks like a number.
+* Clearing a TextBox: To wipe out text inside a control, assign an empty string ("") or call the Clear() method:
+  `textBox1.Clear(); // Or: textBox1.Text = "";`
 
 ---
 
-## 🚪 2.9 Closing a Form
-To close the currently active user interface form or shutdown an application window via code, use this statement:
-
-```csharp
-private void exitButton_Click(object sender, EventArgs e)
-{
-    // Closes the active form instance
-    this.Close(); 
-}
-```
+## 💎 3.2 - 3.3 Variables and Data Types
+* Variable: A storage location in memory represented by a specific name. In C#, you must declare a variable before using it.
+* Primitive Data Types: Basic, built-in types defined by the language:
+  - string: Holds combinations of characters like text, phone numbers, or names.
+  - int: Stores whole numbers ranging from -2,147,483,648 to 2,147,483,647.
+  - double: Stores real numbers, including fractional/decimal parts.
+  - decimal: Real numbers stored with much greater precision; standard for financial/monetary apps.
+* Type Casting: Enclosing a data type name in parentheses explicitly converts values between compatible types:
+  `wholeNumber = (int)moneyNumber; // Casts a decimal to an integer`
 
 ---
 
-## ⚠️ 2.10 Dealing with Syntax Errors
-- **Syntax Error:** A mistake that occurs when your code violates the grammar and structure rules of the C# language.
-- Visual Studio reports these errors instantly by highlighting the problematic code with a red wavy **jagged line**. The program cannot compile or run successfully until all syntax errors are completely resolved.
+## 💎 3.4 Performing Calculations
+* C# uses standard math operators: + (Addition), - (Subtraction), * (Multiplication), / (Division), and % (Modulus/Remainder).
+* Integer Division: Dividing an integer by another integer always results in an integer (the fractional part is completely dropped). To keep the fractional part, at least one value must be explicitly cast to a double or decimal.
+* Mixed Data Types: Operations combining int and double yield a double; operations combining int and decimal yield a decimal. Combining double and decimal directly is not allowed.
+
+---
+
+## 💎 3.5 - 3.6 String Conversion & Formatting
+* Parse Methods: Because text boxes return strings, you must use parsing methods to convert text into numeric data types before performing calculations:
+  `int hoursWorked = int.Parse(hoursWorkedTextBox.Text);`
+  `double temperature = double.Parse(temperatureTextBox.Text);`
+* ToString Method: Converts a numeric variable back into a string to display it in a label or text box. You can supply Format Strings to customize the output:
+  - "C" or "c": Formats the number as Currency.
+  - "N" or "n": Formats as a Standard Number with commas.
+  - "P" or "p": Formats the value as a Percentage.
+
+---
+
+## 💎 3.7 Simple Exception Handling (try-catch)
+* Exception: A runtime error that happens while a program is running (e.g., trying to parse letters like "asdf" into a number). Unhandled exceptions crash the program instantly.
+* try-catch Statement: Prevents crashes by intercepting runtime errors gracefully:
+  ```csharp
+  try
+  {
+      miles = double.Parse(milesTextBox.Text);
+  }
+  catch (Exception ex)
+  {
+      MessageBox.Show(ex.Message);
+  }
+  ```
+
+---
+
+## 💎 3.10 Using the Math Class
+The .NET Math class provides built-in methods for complex operations:
+* Math.Sqrt(x): Returns the square root of x (as a double).
+* Math.Pow(x, y): Returns the value of x raised to the power of y.
+* Math.Round(x): Rounds a double or decimal value to the nearest whole integer.
+
+---
+
+## 💎 3.11 Focus and Tab Order
+* Focus: The specific control that is currently active and receiving user keyboard inputs.
+* Tab Order: The sequential path focus takes when a user presses the Tab key. This is determined by the numeric value in each control's TabIndex property. (Labels cannot receive focus.)
+* Focus Method: You can force the input focus to move to a specific control in code by running `ControlName.Focus();`.
+
+---
+
+## 💎 3.12 Logic Errors and Debugging
+* Logic Error: A mistake that does not crash the app, but produces incorrect calculations or outputs.
+* Breakpoint: A chosen line in your source code where program execution pauses. This enters Break Mode, allowing you to inspect variable values and step through statements one line at a time (Single-Stepping) to trace errors.
