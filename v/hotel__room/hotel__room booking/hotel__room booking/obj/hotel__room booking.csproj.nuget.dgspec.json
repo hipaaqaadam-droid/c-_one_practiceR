@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yusra\\Documents\\c#_0ne_practic\\c#_one_practice\\hotel__room\\hotel__room booking\\hotel__room booking\\hotel__room booking.csproj": {}
+    "C:\\Users\\hp\\Desktop\\C#\\c-_one_practiceR\\v\\hotel__room\\hotel__room booking\\hotel__room booking\\hotel__room booking.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yusra\\Documents\\c#_0ne_practic\\c#_one_practice\\hotel__room\\hotel__room booking\\hotel__room booking\\hotel__room booking.csproj": {
+    "C:\\Users\\hp\\Desktop\\C#\\c-_one_practiceR\\v\\hotel__room\\hotel__room booking\\hotel__room booking\\hotel__room booking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yusra\\Documents\\c#_0ne_practic\\c#_one_practice\\hotel__room\\hotel__room booking\\hotel__room booking\\hotel__room booking.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\C#\\c-_one_practiceR\\v\\hotel__room\\hotel__room booking\\hotel__room booking\\hotel__room booking.csproj",
         "projectName": "hotel__room booking",
-        "projectPath": "C:\\Users\\yusra\\Documents\\c#_0ne_practic\\c#_one_practice\\hotel__room\\hotel__room booking\\hotel__room booking\\hotel__room booking.csproj",
-        "packagesPath": "C:\\Users\\yusra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yusra\\Documents\\c#_0ne_practic\\c#_one_practice\\hotel__room\\hotel__room booking\\hotel__room booking\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Desktop\\C#\\c-_one_practiceR\\v\\hotel__room\\hotel__room booking\\hotel__room booking\\hotel__room booking.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\C#\\c-_one_practiceR\\v\\hotel__room\\hotel__room booking\\hotel__room booking\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yusra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

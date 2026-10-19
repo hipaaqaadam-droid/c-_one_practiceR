@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yusra\\Desktop\\Airline\\Airline Ticket Booking\\Airline Ticket Booking\\Airline Ticket Booking.csproj": {}
+    "C:\\Users\\hp\\Desktop\\C#\\c-_one_practiceR\\Airline\\Airline Ticket Booking\\Airline Ticket Booking\\Airline Ticket Booking.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yusra\\Desktop\\Airline\\Airline Ticket Booking\\Airline Ticket Booking\\Airline Ticket Booking.csproj": {
+    "C:\\Users\\hp\\Desktop\\C#\\c-_one_practiceR\\Airline\\Airline Ticket Booking\\Airline Ticket Booking\\Airline Ticket Booking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yusra\\Desktop\\Airline\\Airline Ticket Booking\\Airline Ticket Booking\\Airline Ticket Booking.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\C#\\c-_one_practiceR\\Airline\\Airline Ticket Booking\\Airline Ticket Booking\\Airline Ticket Booking.csproj",
         "projectName": "Airline Ticket Booking",
-        "projectPath": "C:\\Users\\yusra\\Desktop\\Airline\\Airline Ticket Booking\\Airline Ticket Booking\\Airline Ticket Booking.csproj",
-        "packagesPath": "C:\\Users\\yusra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yusra\\Desktop\\Airline\\Airline Ticket Booking\\Airline Ticket Booking\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Desktop\\C#\\c-_one_practiceR\\Airline\\Airline Ticket Booking\\Airline Ticket Booking\\Airline Ticket Booking.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\C#\\c-_one_practiceR\\Airline\\Airline Ticket Booking\\Airline Ticket Booking\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yusra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

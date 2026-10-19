@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yusra\\Desktop\\yyyy\\vehicle rental management\\vehicle rental management\\vehicle rental management.csproj": {}
+    "C:\\Users\\hp\\Desktop\\C#\\c-_one_practiceR\\yyyy\\vehicle rental management\\vehicle rental management\\vehicle rental management.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yusra\\Desktop\\yyyy\\vehicle rental management\\vehicle rental management\\vehicle rental management.csproj": {
+    "C:\\Users\\hp\\Desktop\\C#\\c-_one_practiceR\\yyyy\\vehicle rental management\\vehicle rental management\\vehicle rental management.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yusra\\Desktop\\yyyy\\vehicle rental management\\vehicle rental management\\vehicle rental management.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\C#\\c-_one_practiceR\\yyyy\\vehicle rental management\\vehicle rental management\\vehicle rental management.csproj",
         "projectName": "vehicle rental management",
-        "projectPath": "C:\\Users\\yusra\\Desktop\\yyyy\\vehicle rental management\\vehicle rental management\\vehicle rental management.csproj",
-        "packagesPath": "C:\\Users\\yusra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yusra\\Desktop\\yyyy\\vehicle rental management\\vehicle rental management\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Desktop\\C#\\c-_one_practiceR\\yyyy\\vehicle rental management\\vehicle rental management\\vehicle rental management.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\C#\\c-_one_practiceR\\yyyy\\vehicle rental management\\vehicle rental management\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yusra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
