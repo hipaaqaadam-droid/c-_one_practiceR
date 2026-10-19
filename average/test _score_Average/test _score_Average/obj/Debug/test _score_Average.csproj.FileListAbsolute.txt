@@ -9,3 +9,14 @@ C:\Users\yusra\Desktop\Teste Score\test _score_Average\test _score_Average\bin\D
 C:\Users\yusra\Desktop\Teste Score\test _score_Average\test _score_Average\obj\Debug\test _score_Average.exe
 C:\Users\yusra\Desktop\Teste Score\test _score_Average\test _score_Average\obj\Debug\test _score_Average.pdb
 C:\Users\yusra\Desktop\Teste Score\test _score_Average\test _score_Average\obj\Debug\test _score_Average.exe.config
+C:\Users\hp\Desktop\C#\c-_one_practiceR\average\test _score_Average\test _score_Average\bin\Debug\test _score_Average.exe.config
+C:\Users\hp\Desktop\C#\c-_one_practiceR\average\test _score_Average\test _score_Average\bin\Debug\test _score_Average.exe
+C:\Users\hp\Desktop\C#\c-_one_practiceR\average\test _score_Average\test _score_Average\bin\Debug\test _score_Average.pdb
+C:\Users\hp\Desktop\C#\c-_one_practiceR\average\test _score_Average\test _score_Average\obj\Debug\test _score_Average.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C#\c-_one_practiceR\average\test _score_Average\test _score_Average\obj\Debug\test _score_Average.exe.config
+C:\Users\hp\Desktop\C#\c-_one_practiceR\average\test _score_Average\test _score_Average\obj\Debug\test__score_Average.Form1.resources
+C:\Users\hp\Desktop\C#\c-_one_practiceR\average\test _score_Average\test _score_Average\obj\Debug\test__score_Average.Properties.Resources.resources
+C:\Users\hp\Desktop\C#\c-_one_practiceR\average\test _score_Average\test _score_Average\obj\Debug\test _score_Average.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\C#\c-_one_practiceR\average\test _score_Average\test _score_Average\obj\Debug\test _score_Average.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\c-_one_practiceR\average\test _score_Average\test _score_Average\obj\Debug\test _score_Average.exe
+C:\Users\hp\Desktop\C#\c-_one_practiceR\average\test _score_Average\test _score_Average\obj\Debug\test _score_Average.pdb
