@@ -1,166 +1,210 @@
+## 2. Windows Forms
 
-2. Windows Forms
+Windows Forms is a framework used to create **desktop applications with a graphical user interface (GUI)**.
 
-Windows Forms is a framework used to create desktop applications with graphical user interfaces.
+## 3. Form
 
-3. Form
+A Form is the **main window** of a Windows Forms application.
 
-A Form is the main window of a Windows Forms application.
+## 4. Control
 
-4. Control
+A Control is a **graphical component placed on a Form** to interact with the user.
 
-A Control is a graphical component placed on a Form to interact with the user.
+## 5. TextBox
 
-5. TextBox
+A TextBox is a control used to **enter or display text**.
 
-A TextBox is a control used to enter or display text.
+## 6. Label
 
-6. Label
+A Label is a control used to **display text or information** on a Form.
 
-A Label is a control used to display text or information on a Form.
+## 7. Button
 
-7. Button
+A Button is a control that **performs an action when the user clicks it**.
 
-A Button is a control that performs an action when the user clicks it.
+## 8. Event
 
-8. Event
+An Event is an **action that occurs while a program is running**.
 
-An Event is an action that happens while a program is running.
+## 9. Event Handler
 
-9. Event Handler
+An Event Handler is a **method that responds to an event**.
 
-An Event Handler is a method that responds to an event.
+## 10. Click Event
 
-10. Click Event
+A Click Event occurs when the user **clicks a control**, such as a Button.
 
-A Click Event occurs when the user clicks a control, such as a Button.
+## 11. Variable
 
-11. Variable
+A Variable is a **named storage location used to store data**.
 
-A Variable is a named storage location used to store data.
+## 12. String
 
-12. String
+A String is a data type used to **store text**.
 
-A String is a data type used to store text.
+## 13. Integer
 
-13. Integer
+An Integer is a data type used to **store whole numbers**.
 
-An Integer is a data type used to store whole numbers.
-Example:
+**Example:**
+
+```csharp
 int age = 17;
-Boolean
+```
 
-A Boolean is a data type that stores either True or False.
+## 14. Boolean
 
-15. Property
+A Boolean is a data type that stores **True or False**.
 
-A Property defines the characteristics or behavior of a control.
+## 15. Property
 
-Example
-Text
-Name
-Size
-Color
-16. Text Property
+A Property defines the **characteristics or behavior of a control**.
 
-The Text property is used to get or set the text of a control.
+**Examples:**
 
-Example:
+* Text
+* Name
+* Size
+* Color
+
+## 16. Text Property
+
+The Text property is used to **get or set the text of a control**.
+
+**Example:**
+
+```csharp
 txtname.Text
-17. Name Property
+```
 
-The Name property gives a control a unique name so it can be used in code.
-Example:
+## 17. Name Property
+
+The Name property gives a control a **unique name** so it can be used in code.
+
+**Example:**
+
+```csharp
 txtname
-18. Clear() Method
+```
 
-The Clear() method removes the text from a TextBox.
+## 18. Clear() Method
 
-Example:
+The Clear() method **removes the text from a TextBox**.
+
+**Example:**
+
+```csharp
 txtname.Clear();
-19. InitializeComponent()
+```
 
-InitializeComponent() initializes the controls and components of the Form.
+## 19. InitializeComponent()
 
-20. Method
+`InitializeComponent()` **initializes the controls and components of the Form**.
 
-A Method is a block of code that performs a specific task.
+## 20. Method
 
-21. Constructor
+A Method is a **block of code that performs a specific task**.
 
-A Constructor is a special method that is called when an object is created.
+## 21. Constructor
 
-Example:
+A Constructor is a **special method that is called when an object is created**.
+
+**Example:**
+
+```csharp
 namespace Assignment1
-25. private
+```
 
-Private means that a member can only be accessed inside its class.
+## 22. Private
 
-26. public
+`private` means that a member can **only be accessed inside its class**.
 
-Public means that a member can be accessed from other parts of the program.
+## 23. Public
 
-27. void
+`public` means that a member can be **accessed from other parts of the program**.
 
-Void means that a method does not return a value.
+## 24. Void
 
-Example:
+`void` means that a method **does not return a value**.
+
+**Example:**
+
+```csharp
 private void button1_Click(...)
-28. sender
+```
 
-Sender represents the control that caused the event.
+## 25. Sender
 
-29. EventArgs
+`sender` represents the **control that caused the event**.
 
-EventArgs contains information about an event.
+## 26. EventArgs
 
-30. Concatenation
+`EventArgs` contains **information about an event**.
 
-Concatenation means joining two or more strings together.
+## 27. Concatenation
 
-Example:
+Concatenation means **joining two or more strings together**.
+
+**Example:**
+
+```csharp
 fullname = firstname + " " + second;
-31. Input
+```
 
-Input is data entered by the user into the program.
+## 28. Input
 
-Example:
+Input is **data entered by the user into the program**.
+
+**Example:**
+
+```text
 Student Name: Yusra
-32. Output
+```
 
-Output is the result displayed by the program to the user.
+## 29. Output
 
-Example:
-33. GUI
+Output is the **result displayed by the program to the user**.
 
-GUI stands for Graphical User Interface. It allows users to interact with a program using controls such as buttons, labels, and TextBoxes.
+**Example:**
 
-34. IDE
+```text
+Hello Yusra
+```
 
-IDE stands for Integrated Development Environment. It is software used to write, run, and debug programs.
+## 30. GUI
 
-Example: Visual Studio
+GUI stands for **Graphical User Interface**.
 
-35. Visual Studio
+It allows users to interact with a program using controls such as **Buttons, Labels, and TextBoxes**.
 
-Visual Studio is an IDE used to develop C# and other applications.
+## 31. IDE
 
-36. Debugging
+IDE stands for **Integrated Development Environment**.
 
-Debugging is the process of finding and fixing errors in a program.
+It is software used to **write, run, and debug programs**.
 
-37. Error
+**Example:** Visual Studio
 
-An Error is a problem in a program that can prevent it from working correctly.
+## 32. Visual Studio
 
-38. Compile
+Visual Studio is an **IDE used to develop C# and other applications**.
 
-Compile means converting source code into a form that the computer can execute.
+## 33. Debugging
 
-39. Source Code
+Debugging is the process of **finding and fixing errors in a program**.
 
-Source Code is the program code written by the programmer.
+## 34. Error
 
-40. Application
+An Error is a **problem in a program that can prevent it from working correctly**.
 
-An Application is a software program designed to perform a specific task or group of tasks.
+## 35. Compile
+
+Compile means **converting source code into a form that the computer can execute**.
+
+## 36. Source Code
+
+Source Code is the **program code written by the programmer**.
+
+## 37. Application
+
+An Application is a **software program designed to perform a specific task or group of tasks**.

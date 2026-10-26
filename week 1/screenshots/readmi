@@ -1,47 +1,102 @@
-
-# Discouse chapter 1 
+# Discourse – Chapter 1
 
 ## Overview
 
-This practice demonstrates how to:
+This chapter explains how to:
 
-- Create string variables
-- Combine two string values
-- Store the combined value in another variable
-- Display the result using a Label control
+* Create string variables.
+* Store names in variables.
+* Combine two strings using the `+` operator.
+* Store the combined result in another variable.
+* Display the result using a Label control.
 
 ---
 
-## 1. Creating Variables
+## 1. Creating String Variables
 
-In this step, three string variables are created to store the user's name information.
+Three string variables are created:
 
-- `FirstName` stores the first name.
-- `SecondName` stores the second name.
-- `FullName` stores the complete name after combining the first and second names.
+* `FirstName` – stores the first name.
+* `SecondName` – stores the second name.
+* `FullName` – stores the complete name.
 
-The following screenshot shows how the variables are declared in C#.
+### Example:
 
-![Creating Variables](Screenshots/Creating_Variables.png)
+```csharp
+string FirstName;
+string SecondName;
+string FullName;
+```
 
-## 2. Concatenating the First Name and Second Name
+---
 
-In this step, the first name and second name are combined using the `+` operator.
+## 2. Combining the Names
 
-A space `" "` is added between the two names so that the final result is displayed correctly.
+The `+` operator is used to combine `FirstName` and `SecondName`.
 
-The result is stored in the `FullName` variable.
+A space `" "` is placed between the two names to make the full name appear correctly.
 
-The following screenshot shows the string concatenation process.
+### Example:
 
-![String Concatenation](Screenshots/String_Concatinatiin.png)
+```csharp
+FullName = FirstName + " " + SecondName;
+```
+
+### Example Result:
+
+If:
+
+```text
+FirstName = "Ali"
+SecondName = "Ahmed"
+```
+
+The result will be:
+
+```text
+Ali Ahmed
+```
+
+---
 
 ## 3. Displaying the Full Name
 
-After the first name and second name are combined, the value stored in `FullName` is displayed in a Label control.
+The value stored in `FullName` can be displayed using a **Label control**.
 
-The `.Text` property of the label is used to show the result on the Windows Form.
+The `.Text` property is used to display the result.
 
-The following screenshot shows how the full name is displayed.
+### Example:
 
-![Display Output](Screenshots/Display_output.png)
+```csharp
+label1.Text = FullName;
+```
+
+This displays the complete name on the Windows Form.
+
+---
+
+## Important Points for Exam
+
+* `string` is used to store text.
+* `+` is used to concatenate (combine) strings.
+* `" "` adds a space between two names.
+* `FullName` stores the combined names.
+* `.Text` is used to display text in a Label control.
+
+### Complete Example
+
+```csharp
+string FirstName = "Ali";
+string SecondName = "Ahmed";
+string FullName;
+
+FullName = FirstName + " " + SecondName;
+
+label1.Text = FullName;
+```
+
+**Output:**
+
+```text
+Ali Ahmed
+```
