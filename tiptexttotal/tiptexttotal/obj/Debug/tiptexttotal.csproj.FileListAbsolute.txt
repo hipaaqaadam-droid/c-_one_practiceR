@@ -1,0 +1,5 @@
+C:\Users\hp\Desktop\rahma c#\tiptexttotal\tiptexttotal\obj\Debug\tiptexttotal.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\rahma c#\tiptexttotal\tiptexttotal\obj\Debug\tiptexttotal.Form1.resources
+C:\Users\hp\Desktop\rahma c#\tiptexttotal\tiptexttotal\obj\Debug\tiptexttotal.Properties.Resources.resources
+C:\Users\hp\Desktop\rahma c#\tiptexttotal\tiptexttotal\obj\Debug\tiptexttotal.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\rahma c#\tiptexttotal\tiptexttotal\obj\Debug\tiptexttotal.csproj.CoreCompileInputs.cache

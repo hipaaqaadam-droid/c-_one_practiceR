@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\rahma c#\\tiptexttotal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EAC4EA-2707-4E6E-B3E8-E45D491969B8}|tiptexttotal\\tiptexttotal.csproj|c:\\users\\hp\\desktop\\rahma c#\\tiptexttotal\\tiptexttotal\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EAC4EA-2707-4E6E-B3E8-E45D491969B8}|tiptexttotal\\tiptexttotal.csproj|solutionrelative:tiptexttotal\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EAC4EA-2707-4E6E-B3E8-E45D491969B8}|tiptexttotal\\tiptexttotal.csproj|c:\\users\\hp\\desktop\\rahma c#\\tiptexttotal\\tiptexttotal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EAC4EA-2707-4E6E-B3E8-E45D491969B8}|tiptexttotal\\tiptexttotal.csproj|solutionrelative:tiptexttotal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EAC4EA-2707-4E6E-B3E8-E45D491969B8}|tiptexttotal\\tiptexttotal.csproj|c:\\users\\hp\\desktop\\rahma c#\\tiptexttotal\\tiptexttotal\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{C9EAC4EA-2707-4E6E-B3E8-E45D491969B8}|tiptexttotal\\tiptexttotal.csproj|solutionrelative:tiptexttotal\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\rahma c#\\tiptexttotal\\tiptexttotal\\Program.cs",
+              "RelativeDocumentMoniker": "tiptexttotal\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\rahma c#\\tiptexttotal\\tiptexttotal\\Program.cs",
+              "RelativeToolTip": "tiptexttotal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T15:13:57.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\rahma c#\\tiptexttotal\\tiptexttotal\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "tiptexttotal\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\rahma c#\\tiptexttotal\\tiptexttotal\\Form1.Designer.cs",
+              "RelativeToolTip": "tiptexttotal\\Form1.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T15:13:38.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\rahma c#\\tiptexttotal\\tiptexttotal\\Form1.resx",
+              "RelativeDocumentMoniker": "tiptexttotal\\Form1.resx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\rahma c#\\tiptexttotal\\tiptexttotal\\Form1.resx",
+              "RelativeToolTip": "tiptexttotal\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-11-02T15:13:25.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
