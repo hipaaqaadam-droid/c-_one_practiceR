@@ -1,0 +1,22 @@
+D:\java code\firstexampleC#\SAVe\SAVe\bin\Debug\SAVe.exe.config
+D:\java code\firstexampleC#\SAVe\SAVe\bin\Debug\SAVe.exe
+D:\java code\firstexampleC#\SAVe\SAVe\bin\Debug\SAVe.pdb
+D:\java code\firstexampleC#\SAVe\SAVe\obj\Debug\SAVe.csproj.AssemblyReference.cache
+D:\java code\firstexampleC#\SAVe\SAVe\obj\Debug\SAVe.Form1.resources
+D:\java code\firstexampleC#\SAVe\SAVe\obj\Debug\SAVe.Properties.Resources.resources
+D:\java code\firstexampleC#\SAVe\SAVe\obj\Debug\SAVe.csproj.GenerateResource.cache
+D:\java code\firstexampleC#\SAVe\SAVe\obj\Debug\SAVe.csproj.CoreCompileInputs.cache
+D:\java code\firstexampleC#\SAVe\SAVe\obj\Debug\SAVe.exe
+D:\java code\firstexampleC#\SAVe\SAVe\obj\Debug\SAVe.pdb
+D:\java code\firstexampleC#\SAVe\SAVe\obj\Debug\SAVe.exe.config
+C:\Users\hp\Desktop\C#\c-_one_practiceR\SAVe\SAVe\bin\Debug\SAVe.exe.config
+C:\Users\hp\Desktop\C#\c-_one_practiceR\SAVe\SAVe\bin\Debug\SAVe.exe
+C:\Users\hp\Desktop\C#\c-_one_practiceR\SAVe\SAVe\bin\Debug\SAVe.pdb
+C:\Users\hp\Desktop\C#\c-_one_practiceR\SAVe\SAVe\obj\Debug\SAVe.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C#\c-_one_practiceR\SAVe\SAVe\obj\Debug\SAVe.exe.config
+C:\Users\hp\Desktop\C#\c-_one_practiceR\SAVe\SAVe\obj\Debug\SAVe.Form1.resources
+C:\Users\hp\Desktop\C#\c-_one_practiceR\SAVe\SAVe\obj\Debug\SAVe.Properties.Resources.resources
+C:\Users\hp\Desktop\C#\c-_one_practiceR\SAVe\SAVe\obj\Debug\SAVe.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\C#\c-_one_practiceR\SAVe\SAVe\obj\Debug\SAVe.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\c-_one_practiceR\SAVe\SAVe\obj\Debug\SAVe.exe
+C:\Users\hp\Desktop\C#\c-_one_practiceR\SAVe\SAVe\obj\Debug\SAVe.pdb
