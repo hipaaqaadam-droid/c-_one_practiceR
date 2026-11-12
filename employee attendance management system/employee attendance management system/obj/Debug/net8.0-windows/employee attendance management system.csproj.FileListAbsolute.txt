@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\rahma c#\employee attendance management system\employee attendance management system\obj\Debug\net8.0-windows\employee_attendance_management_system.Form1.resources
+C:\Users\hp\Desktop\rahma c#\employee attendance management system\employee attendance management system\obj\Debug\net8.0-windows\employee attendance management system.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\rahma c#\employee attendance management system\employee attendance management system\obj\Debug\net8.0-windows\employee attendance management system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\rahma c#\employee attendance management system\employee attendance management system\obj\Debug\net8.0-windows\employee attendance management system.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\rahma c#\employee attendance management system\employee attendance management system\obj\Debug\net8.0-windows\employee attendance management system.AssemblyInfo.cs
+C:\Users\hp\Desktop\rahma c#\employee attendance management system\employee attendance management system\obj\Debug\net8.0-windows\employee attendance management system.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\rahma c#\employee attendance management system\employee attendance management system\bin\Debug\net8.0-windows\employee attendance management system.exe
+C:\Users\hp\Desktop\rahma c#\employee attendance management system\employee attendance management system\bin\Debug\net8.0-windows\employee attendance management system.deps.json
+C:\Users\hp\Desktop\rahma c#\employee attendance management system\employee attendance management system\bin\Debug\net8.0-windows\employee attendance management system.runtimeconfig.json
+C:\Users\hp\Desktop\rahma c#\employee attendance management system\employee attendance management system\bin\Debug\net8.0-windows\employee attendance management system.dll
+C:\Users\hp\Desktop\rahma c#\employee attendance management system\employee attendance management system\bin\Debug\net8.0-windows\employee attendance management system.pdb
+C:\Users\hp\Desktop\rahma c#\employee attendance management system\employee attendance management system\obj\Debug\net8.0-windows\employee attendance management system.dll
+C:\Users\hp\Desktop\rahma c#\employee attendance management system\employee attendance management system\obj\Debug\net8.0-windows\refint\employee attendance management system.dll
+C:\Users\hp\Desktop\rahma c#\employee attendance management system\employee attendance management system\obj\Debug\net8.0-windows\employee attendance management system.pdb
+C:\Users\hp\Desktop\rahma c#\employee attendance management system\employee attendance management system\obj\Debug\net8.0-windows\employee attendance management system.genruntimeconfig.cache
+C:\Users\hp\Desktop\rahma c#\employee attendance management system\employee attendance management system\obj\Debug\net8.0-windows\ref\employee attendance management system.dll
